@@ -44,6 +44,12 @@ About design, frontend dev, learning and life.
 - [Handle Recursive Inner Child Elements in Angular](https://dev.to/itnext/handle-recursive-inner-child-elements-in-angular-4cgm)
 - [Add Colored Text and Background Classes in Bootstrap](https://dev.to/shhdharmen/add-colored-text-and-background-classes-in-bootstrap-44ia)
 - [Delievery - Deliver (or Send) Anything, Everywhere in your Local Community - Twilio Hackathon](https://dev.to/shhdharmen/delievery-deliver-or-send-anything-everywhere-in-your-local-community-twilio-hackathon-i7f)
+- [Custom Theme for Angular Material Components Series: Part 3 — Apply Theme](https://dev.to/itnext/custom-theme-for-angular-material-components-series-part-3-apply-theme-e34)
+- [Custom Theme for Angular Material Components Series: Part 2 — Understand Theme](https://dev.to/itnext/custom-theme-for-angular-material-components-series-part-2-understand-theme-aa2)
+- [Custom Theme for Angular Material Components Series: Part 1 — Create a Theme](https://dev.to/itnext/custom-theme-for-angular-material-components-series-part-1-create-a-theme-1ba5)
+- [Responsive Size Classes in Bootstrap](https://dev.to/shhdharmen/responsive-size-classes-in-bootstrap-3ojl)
+- [Dribbble Challenge 02: Birthday list card](https://dev.to/shhdharmen/dribbble-challenge-02-birthday-list-card-1g4f)
+- [Dribbble Challenge 01: Keyboard Button](https://dev.to/shhdharmen/dribble-challenge-01-keyboard-button-44jc)
 <!-- BLOG-POST-LIST:END -->
 
 ## Send me a message!
