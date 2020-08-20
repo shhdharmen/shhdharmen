@@ -18,7 +18,7 @@ I once also led frontend team at a Hyderabadi startup, Conifer labs. We were bui
 
 Before that I was in a support and maintenance project at an MNC, for 3 years. I was working on SAP WEBI/BI and Tableau.
 
-Learn more [about me](https://shhdharmen.github.io/me/about) or take a look at my [resume](https://shhdharmen.github.io/me/resume).
+Learn more [about me](https://shhdharmen.github.me/about) or take a look at my [resume](https://shhdharmen.me/resume).
 
 <p align="left"><img src="https://devicons.github.io/devicon/devicon.git/icons/angularjs/angularjs-original.svg" alt="angularjs" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/gulp/gulp-plain.svg" alt="gulp" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/></p><p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shhdharmen" alt="shhdharmen" /></p>
 
@@ -32,7 +32,7 @@ Open source projects, web apps and experimentals.
 
 - **Node** CLI tools
 
-[See my work](https://shhdharmen.github.io/me/work)
+[See my work](https://shhdharmen.me/work)
 
 ## I write, sometimes.
 
