@@ -40,6 +40,10 @@ About design, frontend dev, learning and life.
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Material Design Icons: Font vs SVG. And how to use SVG Sprites in Angular?](https://dev.to/itnext/material-design-icons-font-vs-svg-and-how-to-use-svg-sprites-in-angular-4pch)
+- [Handle Recursive Inner Child Elements in Angular](https://dev.to/itnext/handle-recursive-inner-child-elements-in-angular-4cgm)
+- [Add Colored Text and Background Classes in Bootstrap](https://dev.to/shhdharmen/add-colored-text-and-background-classes-in-bootstrap-44ia)
+- [Delievery - Deliver (or Send) Anything, Everywhere in your Local Community - Twilio Hackathon](https://dev.to/shhdharmen/delievery-deliver-or-send-anything-everywhere-in-your-local-community-twilio-hackathon-i7f)
 <!-- BLOG-POST-LIST:END -->
 
 ## Send me a message!
