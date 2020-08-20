@@ -13,4 +13,4 @@ jobs:
       - uses: gautamkrishnar/blog-post-workflow@master
         with: 
           max_post_count: "10"
-          feed_list: "https://dev.to/feed/shhdharmen, https://medium.com/feed/@shhdharmen"
+          feed_list: "https://dev.to/feed/shhdharmen,https://medium.com/feed/@shhdharmen"
