@@ -40,6 +40,7 @@ About design, frontend dev, learning and life.
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Material Design Icons: Font vs SVG. And how to use SVG Sprites in Angular?](https://medium.com/@shhdharmen/material-design-icons-font-vs-svg-and-how-to-use-svg-sprites-in-angular-742819186743?source=rss-bd1cd197da0d------2)
 - [Material Design Icons: Font vs SVG. And how to use SVG Sprites in Angular?](https://dev.to/itnext/material-design-icons-font-vs-svg-and-how-to-use-svg-sprites-in-angular-4pch)
 - [Handle Recursive Inner Child Elements in Angular](https://dev.to/itnext/handle-recursive-inner-child-elements-in-angular-4cgm)
 - [Add Colored Text and Background Classes in Bootstrap](https://dev.to/shhdharmen/add-colored-text-and-background-classes-in-bootstrap-44ia)
@@ -49,7 +50,6 @@ About design, frontend dev, learning and life.
 - [Custom Theme for Angular Material Components Series: Part 1 — Create a Theme](https://dev.to/itnext/custom-theme-for-angular-material-components-series-part-1-create-a-theme-1ba5)
 - [Responsive Size Classes in Bootstrap](https://dev.to/shhdharmen/responsive-size-classes-in-bootstrap-3ojl)
 - [Dribbble Challenge 02: Birthday list card](https://dev.to/shhdharmen/dribbble-challenge-02-birthday-list-card-1g4f)
-- [Dribbble Challenge 01: Keyboard Button](https://dev.to/shhdharmen/dribble-challenge-01-keyboard-button-44jc)
 <!-- BLOG-POST-LIST:END -->
 
 ## Send me a message!
