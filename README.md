@@ -40,7 +40,7 @@ About design, frontend dev, learning and life.
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
-- [Material Design Icons: Font vs SVG. And how to use SVG Sprites in Angular?](https://medium.com/swlh/material-design-icons-font-vs-svg-and-how-to-use-svg-sprites-in-angular-742819186743?source=rss-bd1cd197da0d------2)
+- [Material Design Icons: Font vs SVG. And How to Use SVG Sprites in Angular?](https://medium.com/swlh/material-design-icons-font-vs-svg-and-how-to-use-svg-sprites-in-angular-742819186743?source=rss-bd1cd197da0d------2)
 - [Material Design Icons: Font vs SVG. And how to use SVG Sprites in Angular?](https://dev.to/itnext/material-design-icons-font-vs-svg-and-how-to-use-svg-sprites-in-angular-4pch)
 - [Handle Recursive Inner Child Elements in Angular](https://dev.to/itnext/handle-recursive-inner-child-elements-in-angular-4cgm)
 - [Handle Recursive Inner Child Elements in Angular](https://medium.com/@shhdharmen/handle-recursive-inner-child-elements-in-angular-a163dd708f1a?source=rss-bd1cd197da0d------2)
