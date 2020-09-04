@@ -36,7 +36,7 @@ Open source projects, web apps and experimentals.
 
 ## I write, sometimes.
 
-About design, frontend dev, learning and life.
+About design, frontend dev, learning and life. Check out my blogs at [blog.shhdharmen.me](https://blog.shhdharmen.me/)
 
 ## Send me a message!
 
