@@ -38,20 +38,6 @@ Open source projects, web apps and experimentals.
 
 About design, frontend dev, learning and life.
 
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-- [Material Design Icons: Font vs SVG. And How to Use SVG Sprites in Angular?](https://medium.com/swlh/material-design-icons-font-vs-svg-and-how-to-use-svg-sprites-in-angular-742819186743?source=rss-bd1cd197da0d------2)
-- [Material Design Icons: Font vs SVG. And how to use SVG Sprites in Angular?](https://dev.to/itnext/material-design-icons-font-vs-svg-and-how-to-use-svg-sprites-in-angular-4pch)
-- [Handle Recursive Inner Child Elements in Angular](https://dev.to/itnext/handle-recursive-inner-child-elements-in-angular-4cgm)
-- [Handle Recursive Inner Child Elements in Angular](https://medium.com/@shhdharmen/handle-recursive-inner-child-elements-in-angular-a163dd708f1a?source=rss-bd1cd197da0d------2)
-- [Add Colored Text and Background Classes in Bootstrap](https://dev.to/shhdharmen/add-colored-text-and-background-classes-in-bootstrap-44ia)
-- [Delievery - Deliver (or Send) Anything, Everywhere in your Local Community - Twilio Hackathon](https://dev.to/shhdharmen/delievery-deliver-or-send-anything-everywhere-in-your-local-community-twilio-hackathon-i7f)
-- [Custom Theme for Angular Material Components Series: Part 3 — Apply Theme](https://dev.to/itnext/custom-theme-for-angular-material-components-series-part-3-apply-theme-e34)
-- [Custom Theme for Angular Material Components Series: Part 2 — Understand Theme](https://dev.to/itnext/custom-theme-for-angular-material-components-series-part-2-understand-theme-aa2)
-- [Custom Theme for Angular Material Components Series: Part 1 — Create a Theme](https://dev.to/itnext/custom-theme-for-angular-material-components-series-part-1-create-a-theme-1ba5)
-- [Responsive Size Classes in Bootstrap](https://dev.to/shhdharmen/responsive-size-classes-in-bootstrap-3ojl)
-<!-- BLOG-POST-LIST:END -->
-
 ## Send me a message!
 
 Got a question or proposal, or just want to say hello? Go ahead.
