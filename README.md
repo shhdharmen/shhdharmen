@@ -54,3 +54,10 @@ Got a question or proposal, or just want to say hello? Go ahead.
 <a href="https://stackoverflow.com/users/3339907" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="3339907" height="30" width="30" /></a>
 <a href="https://medium.com/@shhdharmen" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@shhdharmen" height="30" width="30" /></a>
 </p>
+
+<a href="https://github.com/shhdharmen/github-link">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=shhdharmen&repo=github-link" />
+  </a><br>
+  <a href="https://github.com/shhdharmen/react-chip-input">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=shhdharmen&repo=react-chip-input" />
+  </a>
