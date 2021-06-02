@@ -10,7 +10,7 @@
 
 I've worked in different companies on different roles, ranging from support to developer to team-lead.
 
-Right now, I am working as Sr. Front-end Developer at [Milestone Inc.](http://milestoneinternet.com/), crafting their suit of products for a global customer-base to provide fast, reliable and robust solutions. Mainly I am working on Angular, SCSS and Bootstrap here, I love that stack.
+In my last experince, I was working as Sr. Front-end Developer at [Milestone Inc.](http://milestoneinternet.com/), crafting their suit of products for a global customer-base to provide fast, reliable and robust solutions. Mainly I am working on Angular, SCSS and Bootstrap here, I love that stack.
 
 Before that, I was Full Stack Developer at [Quark Studios](http://quarkstudios.com/). I am (maybe was) responsible for front part of an enterprise web application. I learned, and worked on React.
 
